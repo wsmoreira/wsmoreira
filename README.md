@@ -21,4 +21,4 @@ Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar min
 ## 📫 Conecte-se comigo
 - LinkedIn: [linkedin.com/in/wsmoreira](https://linkedin.com/in/wsmoreira)  
 - GitHub: [github.com/wsmoreira](https://github.com/wsmoreira)  
-- Email: wellington@email.com
+- Email: ws.moreira@outlook.com.br
