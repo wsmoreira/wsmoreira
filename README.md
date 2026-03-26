@@ -21,9 +21,9 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats-git-master-wsmoreira.vercel.app/api?username=wsmoreira&show_icons=true&theme=radical)
+![Estatísticas](https://github-readme-stats-iota-three-90.vercel.app/api?username=wsmoreira&show_icons=true&theme=radical)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wsmoreira&layout=compact&theme=radical)
+![Linguagens](https://github-readme-stats-iota-three-90.vercel.app/api/top-langs/?username=wsmoreira&layout=compact&theme=radical)
 
 ## 🎯 Objetivo
 Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar minha experiência em negócios e minhas habilidades técnicas para evoluir profissionalmente e contribuir com soluções eficientes.
