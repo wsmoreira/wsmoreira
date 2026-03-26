@@ -22,7 +22,7 @@
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=wsmoreira&show_icons=true&theme=radical)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wsmoreira&layout=compact&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wsmoreira&layout=compact&theme=radical&langs_count=8)
 
 ## 🎯 Objetivo
 Busco minha primeira oportunidade na área de tecnologia, onde possa aplicar minha experiência em negócios e minhas habilidades técnicas para evoluir profissionalmente e contribuir com soluções eficientes.
