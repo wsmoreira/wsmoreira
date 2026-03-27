@@ -64,7 +64,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=wsmoreira&theme=radical&locale=pt_BR)
 
-![Trofeus](https://github-profile-trophy.vercel.app/?username=wsmoreira&theme=radical&no-frame=true&row=1&column=6)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wsmoreira&theme=redical&hide_border=true)
 
 </div>
 
